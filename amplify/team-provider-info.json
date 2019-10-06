@@ -1,0 +1,14 @@
+{
+    "amplifyenv": {
+        "awscloudformation": {
+            "AuthRoleName": "angularamplifygraphq-amplifyenv-20191006134823-authRole",
+            "UnauthRoleArn": "arn:aws:iam::854875202353:role/angularamplifygraphq-amplifyenv-20191006134823-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::854875202353:role/angularamplifygraphq-amplifyenv-20191006134823-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "angularamplifygraphq-amplifyenv-20191006134823-deployment",
+            "UnauthRoleName": "angularamplifygraphq-amplifyenv-20191006134823-unauthRole",
+            "StackName": "angularamplifygraphq-amplifyenv-20191006134823",
+            "StackId": "arn:aws:cloudformation:us-west-2:854875202353:stack/angularamplifygraphq-amplifyenv-20191006134823/a3a2cb40-e87a-11e9-a084-0678f540705a"
+        }
+    }
+}
